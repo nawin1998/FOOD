@@ -670,18 +670,18 @@ hr{
     }
     .curve .fas{
          position: relative;
-         font-size: 10px;
-         top: 0px;
-         left: 64px;
+         font-size: 7px;
+         bottom: 10px;
+         left: 70px;
          z-index: 1;
     }
     .curve .click{
         position: absolute;
         display: grid;
         font-size: 10px;
-        padding: 5px;
+        padding: 3px;
         left: 70px;
-        top: 80%;
+        top: 87%;
         border-radius: 5px;
     }
     .curve2 h1{
@@ -704,17 +704,17 @@ hr{
     }
     .curve2 .fas{
          position: relative;
-         font-size: 10px;
-         top: 0px;
-         left: 64px;
+         font-size: 7px;
+         bottom: 10px;
+         left: 67px;
          z-index: 1;
     }
     .curve2 .press{
         position: absolute;
         display: grid;
-        padding: 5px;
+        padding: 3px;
         left: 65px;
-        top: 80%;
+        top: 87%;
         border-radius: 5px;
         font-size: 10px;
     }
